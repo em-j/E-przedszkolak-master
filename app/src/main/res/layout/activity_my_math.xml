@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/omonom"
+    android:gravity="center_vertical">
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:text="@string/dodawanie"
+        android:id="@+id/btn_plus"
+        android:typeface="serif"
+        android:background="@drawable/buttonapka"
+        android:onClick="onButtonOpenDodawanie"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:background="@drawable/buttonapka"
+        android:typeface="serif"
+        android:text="@string/odejmowanie"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onButtonOpenOdejmowanie"
+        android:singleLine="true"
+        android:id="@+id/btn_minus"/>
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:onClick="onButtonOpenMnozenie"
+        android:background="@drawable/buttonapka"
+        android:text="@string/mnożenie"
+        android:typeface="serif"
+        android:id="@+id/btn_multiplication"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal"
+        />
+
+</LinearLayout>

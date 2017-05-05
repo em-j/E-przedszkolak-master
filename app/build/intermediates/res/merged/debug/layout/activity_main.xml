@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/eprzed"
+    tools:context="com.example.em.e_przedszkolak.MainActivity">
+
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:text="@string/Kolory"
+        android:id="@+id/button"
+        android:background="@drawable/buttonapka"
+        android:onClick="onButtonOpenColor"
+        android:typeface="serif"
+        android:singleLine="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:text="@string/Zwierzęta"
+        android:background="@drawable/buttonapka"
+        android:id="@+id/button2"
+        android:onClick="onButtonOpenAnimals"
+        android:layout_marginLeft="2dp"
+        android:typeface="serif"
+        android:singleLine="true"
+        android:layout_below="@+id/button"
+        android:layout_alignStart="@+id/button4" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:background="@drawable/buttonapka"
+        android:text="@string/NumbAndLetters"
+        android:id="@+id/button3"
+        android:layout_marginLeft="2dp"
+        android:typeface="serif"
+        android:onClick="onButtonOpenNumb"
+        android:singleLine="true"
+        android:layout_below="@+id/button4"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:background="@drawable/buttonapka"
+        android:text="@string/Vege"
+        android:id="@+id/button4"
+        android:onClick="onButtonOpenVega"
+        android:layout_marginLeft="2dp"
+        android:typeface="serif"
+        android:singleLine="true"
+        android:layout_below="@+id/button2"
+        android:layout_alignStart="@+id/button3" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:background="@drawable/buttonapka"
+        android:text="@string/Matematyka"
+        android:onClick="onButtonOpenMath"
+        android:id="@+id/button7"
+        android:layout_marginLeft="2dp"
+        android:typeface="serif"
+        android:singleLine="true"
+        android:layout_below="@+id/button3"
+        android:layout_alignStart="@+id/button3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView5"
+        android:layout_marginBottom="91dp"
+        android:layout_above="@+id/button"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

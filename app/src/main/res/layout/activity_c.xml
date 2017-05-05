@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="239dp"
+        android:id="@+id/imageViewC"
+        android:onClick="onButtonOpenThree"
+        android:src="@drawable/c"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wybierz literkę C"
+        android:textSize="20sp"
+        android:gravity="center" />
+    <ImageView
+        android:layout_width="337dp"
+        android:layout_height="234dp"
+        android:id="@+id/imageViewA"
+        android:src="@drawable/a" />
+
+</LinearLayout>

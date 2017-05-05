@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:2:1-110:12
+	package
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:5:22-65
+application
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:6:5-107:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Em\.android\build-cache\18a28e7ca04cea4b81b4d7d2250031b660f792ae\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Em\.android\build-cache\fc9850bab43338165d335a4c080e8ab1922afa94\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Em\.android\build-cache\c912f4b8b631c6a863801923287738d6c40efaa8\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Em\.android\build-cache\2cf1769d0d3918e22ff0509832684fe7c0403d96\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:theme
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.em.e_przedszkolak.MainActivity
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.em.e_przedszkolak.Zwierzeta.MyAnimals
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:23:9-25:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:24:13-48
+activity#com.example.em.e_przedszkolak.Zwierzeta.Pig
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.example.em.e_przedszkolak.Zwierzeta.Cat
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:29:9-31:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:30:13-42
+activity#com.example.em.e_przedszkolak.Zwierzeta.Rabbit
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:33:13-45
+activity#com.example.em.e_przedszkolak.Zwierzeta.MemoryGame
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:36:13-49
+activity#com.example.em.e_przedszkolak.Owoce.Bananna
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:40:13-42
+activity#com.example.em.e_przedszkolak.Owoce.MyVege
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:43:13-41
+activity#com.example.em.e_przedszkolak.Owoce.Cherry
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:46:13-41
+activity#com.example.em.e_przedszkolak.Owoce.Apple
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:49:13-40
+activity#com.example.em.e_przedszkolak.Owoce.Pear
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:52:13-39
+activity#com.example.em.e_przedszkolak.Owoce.Tomato
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:55:13-41
+activity#com.example.em.e_przedszkolak.Owoce.Carrot
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:58:13-41
+activity#com.example.em.e_przedszkolak.Kolory.Blue
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:62:13-40
+activity#com.example.em.e_przedszkolak.Kolory.Red
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:65:13-39
+activity#com.example.em.e_przedszkolak.Kolory.Green
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:68:13-41
+activity#com.example.em.e_przedszkolak.Kolory.Yellow
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:70:9-72:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:71:13-42
+activity#com.example.em.e_przedszkolak.Kolory.MyColor
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:73:9-75:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:74:13-43
+activity#com.example.em.e_przedszkolak.Kolory.PaintModel
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:76:9-78:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:77:13-46
+activity#com.example.em.e_przedszkolak.Matematyka.MyMath
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:81:13-46
+activity#com.example.em.e_przedszkolak.Matematyka.plus1
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:83:9-85:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:84:13-45
+activity#com.example.em.e_przedszkolak.Matematyka.minus1
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:87:13-46
+activity#com.example.em.e_przedszkolak.Matematyka.razy1
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:90:13-45
+activity#com.example.em.e_przedszkolak.LiterkiCyferki.MyNumb
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:94:13-50
+activity#com.example.em.e_przedszkolak.LiterkiCyferki.Two
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:97:13-47
+activity#com.example.em.e_przedszkolak.LiterkiCyferki.C
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:100:13-45
+activity#com.example.em.e_przedszkolak.LiterkiCyferki.Three
+ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml:103:13-49
+uses-sdk
+INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Em\.android\build-cache\18a28e7ca04cea4b81b4d7d2250031b660f792ae\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Em\.android\build-cache\fc9850bab43338165d335a4c080e8ab1922afa94\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Em\.android\build-cache\c912f4b8b631c6a863801923287738d6c40efaa8\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Em\.android\build-cache\2cf1769d0d3918e22ff0509832684fe7c0403d96\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Em\.android\build-cache\18a28e7ca04cea4b81b4d7d2250031b660f792ae\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\src\main\AndroidManifest.xml

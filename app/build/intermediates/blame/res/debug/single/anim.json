@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Em\\.android\\build-cache\\18a28e7ca04cea4b81b4d7d2250031b660f792ae\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

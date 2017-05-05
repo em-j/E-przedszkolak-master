@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.em.e_przedszkolak"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tlomale"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.em.e_przedszkolak.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Zwierzeta -->
+        <activity
+            android:name="com.example.em.e_przedszkolak.Zwierzeta.MyAnimals"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Zwierzeta.Pig"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Zwierzeta.Cat"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Zwierzeta.Rabbit"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Zwierzeta.MemoryGame"
+            android:screenOrientation="portrait" />
+        <!-- Owoce -->
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.Bananna"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.MyVege"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.Cherry"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.Apple"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.Pear"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.Tomato"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Owoce.Carrot"
+            android:screenOrientation="portrait" />
+        <!-- Kolory -->
+        <activity
+            android:name="com.example.em.e_przedszkolak.Kolory.Blue"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Kolory.Red"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Kolory.Green"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Kolory.Yellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Kolory.MyColor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Kolory.PaintModel"
+            android:screenOrientation="portrait" />
+        <!-- Matematyka -->
+        <activity
+            android:name="com.example.em.e_przedszkolak.Matematyka.MyMath"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Matematyka.plus1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Matematyka.minus1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.Matematyka.razy1"
+            android:screenOrientation="portrait" />
+        <!-- Literki i Cyferki -->
+        <activity
+            android:name="com.example.em.e_przedszkolak.LiterkiCyferki.MyNumb"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.LiterkiCyferki.Two"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.LiterkiCyferki.C"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.em.e_przedszkolak.LiterkiCyferki.Three"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.em.e_przedszkolak.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

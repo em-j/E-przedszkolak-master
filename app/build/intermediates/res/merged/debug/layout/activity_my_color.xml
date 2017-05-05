@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="false"
+    android:orientation="vertical"
+    android:background="@drawable/omonom"
+    android:gravity="center">
+
+
+    <Button
+        android:id="@+id/btn_color"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:background="@drawable/zarowka"
+        android:onClick="onButtonOpenRandomColors" />
+
+
+    <Button
+        android:id="@+id/gra_color"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:onClick="onButtonOpenPaint"
+        android:background="@drawable/gra" />
+</LinearLayout>

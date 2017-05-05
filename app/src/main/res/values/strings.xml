@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">E-Przedszkolak</string>
+    <string name="Kolory">Kolory</string>
+    <string name="Matematyka">Matematyka</string>
+    <string name="Zwierzęta">Zwierzęta</string>
+    <string name="NumbAndLetters">Cyferki i Literki</string>
+    <string name="Vege">Owoce i Warzywa</string>
+    <string name="graj">GRAJ</string>
+    <string name="dalej"><![CDATA[Dalej->]]></string>
+    <string name="pigi">pigi</string>
+    <string name="świnka">świnka</string>
+    <string name="kotek">kot</string>
+    <string name="owoce">Owoce</string>
+    <string name="warzywa">Warzywa</string>
+    <string name="banan">banan</string>
+    <string name="jablka">jablka</string>
+    <string name="pear">pear</string>
+    <string name="cherry">cherry</string>
+    <string name="apple">Apple</string>
+    <string name="czerwony">czerwony</string>
+    <string name="niebieski">niebieski</string>
+    <string name="zielony">zielony</string>
+    <string name="zolty">zolty</string>
+    <string name="carrot">carrot</string>
+    <string name="dodawanie">Dodawanie</string>
+    <string name="odejmowanie">Odejmowanie</string>
+    <string name="mnożenie">Mnożenie</string>
+    <string name="cztery">4</string>
+    <string name="trzydziescipiec">35</string>
+    <string name="jeden">1</string>
+    <string name="rabbit">rabbit</string>
+    <string name="kot">kot</string>
+    <string name="swinka">swinka</string>
+    <!--strings Paint App-->
+    <string name="action_settings">Settings</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+
+</resources>

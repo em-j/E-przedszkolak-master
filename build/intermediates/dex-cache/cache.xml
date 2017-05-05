@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d615f4dd94361fdf8e5823f0f554d98cafd34a9">
+        <dex dex="D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bdee290b63ffb3bf1ada965929c9bf81065cea15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Projekt E-Przedszkolak\E-przedszkolak-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_67c115a30b7caa2c537ef83c189cd23b1b740512\classes.dex" />
+    </item>
+
+</items>

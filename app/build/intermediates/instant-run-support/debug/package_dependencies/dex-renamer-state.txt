@@ -1,0 +1,22 @@
+#Fri May 05 15:09:01 CEST 2017
+renamed.6=classes.dex
+renamed.5=classes4.dex
+renamed.4=classes3.dex
+renamed.3=classes6.dex
+renamed.2=classes5.dex
+renamed.1=classes7.dex
+renamed.0=classes2.dex
+base.6=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4182a6f2bc5cfc6d220df5a33518563e0621406d
+base.5=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_aaf039549e4dc5ce23337bbec47c8ad48bf4a124
+base.4=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5acc3a2efe2c503c31bf86bf314bb139e1540e30
+base.3=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_e146c31cf6742484356a2b202b2178c35d98152b
+base.2=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\glide-3.7.0_5912cc639e6c42cf098e7d1a6cfdcc280ca19013
+base.1=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_11443d8afa75927c660f33392da3aa2a47e37234
+base.0=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4e25d892e9a31b9fd6b7f82231b954bfd7160c3e
+file.6=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4182a6f2bc5cfc6d220df5a33518563e0621406d\\classes.dex
+file.5=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_aaf039549e4dc5ce23337bbec47c8ad48bf4a124\\classes.dex
+file.4=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5acc3a2efe2c503c31bf86bf314bb139e1540e30\\classes.dex
+file.3=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_e146c31cf6742484356a2b202b2178c35d98152b\\classes.dex
+file.2=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\glide-3.7.0_5912cc639e6c42cf098e7d1a6cfdcc280ca19013\\classes.dex
+file.1=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_11443d8afa75927c660f33392da3aa2a47e37234\\classes.dex
+file.0=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4e25d892e9a31b9fd6b7f82231b954bfd7160c3e\\classes.dex

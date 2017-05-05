@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/omonom">
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="151dp"
+        android:layout_height="90dp"
+        android:text="@string/dalej"
+        android:id="@+id/buttonApple"
+        android:onClick="onButtonOpenPear"
+        android:layout_gravity="right"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/buttonapka"
+        android:layout_above="@+id/imageViewApple" />
+
+    <ImageView
+        android:layout_width="355dp"
+        android:layout_height="386dp"
+        android:id="@+id/imageViewApple"
+        android:src="@drawable/jablka"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/apple"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/editTextApple"
+        android:layout_weight="0.76"
+        android:inputType="none"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:hint="Wpisz tutaj tekst"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/buttonApple"
+        android:layout_below="@+id/imageViewApple" />
+
+</RelativeLayout>

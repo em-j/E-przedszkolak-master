@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/omonom">
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="151dp"
+        android:layout_height="90dp"
+        android:text="@string/dalej"
+        android:id="@+id/buttonBlue"
+        android:background="@drawable/buttonapka"
+        android:onClick="onButtonOpenGreen"
+        android:layout_gravity="right" />
+
+    <ImageView
+        android:layout_width="356dp"
+        android:layout_height="0dp"
+        android:id="@+id/imageViewBlue"
+        android:src="@drawable/niebieski"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/niebieski"
+        android:layout_weight="1" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextBlue"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:hint="Wpisz tutaj tekst"
+        android:inputType="none" />
+
+</LinearLayout>

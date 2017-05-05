@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/omonom">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="380dp"
+        android:id="@+id/imageViewPear"
+        android:src="@drawable/gruszka"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/pear"
+        android:layout_below="@+id/buttonPear"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/editTextPear"
+        android:inputType="none"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:hint="Wpisz tutaj tekst"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageViewPear" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="151dp"
+        android:background="@drawable/buttonapka"
+        android:layout_height="90dp"
+        android:text="@string/dalej"
+        android:id="@+id/buttonPear"
+        android:onClick="onButtonOpenCherry"
+        android:layout_gravity="right"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

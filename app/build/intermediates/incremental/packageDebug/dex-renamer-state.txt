@@ -1,0 +1,7 @@
+#Fri May 05 15:36:46 CEST 2017
+base.0=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bdee290b63ffb3bf1ada965929c9bf81065cea15
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67c115a30b7caa2c537ef83c189cd23b1b740512\\classes.dex
+base.1=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67c115a30b7caa2c537ef83c189cd23b1b740512
+file.0=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bdee290b63ffb3bf1ada965929c9bf81065cea15\\classes.dex

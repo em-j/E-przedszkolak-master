@@ -1,0 +1,4 @@
+#Fri May 05 15:09:02 CEST 2017
+base.0=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\Projekt E-Przedszkolak\\E-przedszkolak-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
